@@ -4,7 +4,7 @@
 #
 Name     : jdk-jsoup
 Version  : 1.9.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/jhy/jsoup/archive/jsoup-1.9.2.tar.gz
 Source0  : https://github.com/jhy/jsoup/archive/jsoup-1.9.2.tar.gz
 Summary  : No detailed summary available
